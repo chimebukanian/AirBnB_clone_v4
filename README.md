@@ -158,6 +158,7 @@ No known bugs at this time.
 Adnan Adetunji - [Github](https://github.com/haddyadnan) / [Twitter](https://twitter.com/haddyadnan)
 
 Anyanwu chimebuka - [Github](https://github.com/chimebukanian) / [Twitter](https://twitter.com/Ebukanian)
+ndege monda - [Github](https://github.com/nmonda) / [Twitter](https://twitter.com/nmonda)
 
 ### Version 3 Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)
